@@ -12,4 +12,5 @@ CasparCG Requirements:<br>
 <br>
 VLC media player by VideoLAN & ffmpeg is implemented in the Package.<br>
 <br>
-<h4><a href="http://cast.red/download-redcast-ontime/" target="_blank" rel="noopener">Download here ></a></h4>
+<h1>RedCast-OnTime</h1>
+<h4><a href="http://cast.red/download-redcast-ontime/" target="_blank" rel="noopener">Download RedCast OnTime here ></a></h4>
