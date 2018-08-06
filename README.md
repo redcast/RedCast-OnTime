@@ -1,4 +1,4 @@
-# RedCast-OnTime
+# RedCast OnTime
 <br>
 RedCast is a free and 24/7 Television Playout. And yes, even for commercial use!<br>
 RedCast is a Client for CasparCG.<br>
@@ -12,5 +12,5 @@ CasparCG Requirements:<br>
 <br>
 VLC media player by VideoLAN & ffmpeg is implemented in the Package.<br>
 <br>
-<h1>RedCast-OnTime</h1>
+<h1>RedCast OnTime</h1>
 <h4><a href="http://cast.red/download-redcast-ontime/" target="_blank" rel="noopener">Download RedCast OnTime here ></a></h4>
