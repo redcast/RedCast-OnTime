@@ -10,4 +10,6 @@ System Requirements:<br>
 CasparCG Requirements:<br>
 <a href="https://github.com/CasparCG/help/wiki/Server:-System-Requirements" target="_blank" rel="noopener">View here &gt;</a><br>
 <br>
-VLC media player by VideoLAN & ffmpeg is implemented in the Package.
+VLC media player by VideoLAN & ffmpeg is implemented in the Package.<br>
+<br>
+<h4><a href="http://cast.red/download-redcast-ontime/" target="_blank" rel="noopener">Download here ></a></h4>
