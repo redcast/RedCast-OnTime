@@ -3,6 +3,8 @@
 RedCast is a free and 24/7 Television Playout. And yes, even for commercial use!<br>
 RedCast is a Client for CasparCG.<br>
 <br>
+![redcast](redcastontime.jpg)
+<br>
 System Requirements:<br>
 <a href="https://www.microsoft.com/de-ch/download/details.aspx?id=30653" target="_blank" rel="noopener">Microsoft .NET Framework 4.5 or later &gt;</a><br>
 <a href="http://www.microsoft.com/download/en/details.aspx?id=5555" target="_blank" rel="noopener">Microsoft Visual C++ 2010 Redistributable Package &gt;</a><br>
